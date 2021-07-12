@@ -13,7 +13,7 @@ public class Main {
         }
         scan.close();
 
-        System.out.println("Your entered strings: " + String.join(",", strings));
+        System.out.println("Your entered strings: " + String.join(" ", strings));
 
     }
 }
